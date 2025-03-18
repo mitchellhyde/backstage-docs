@@ -10,4 +10,5 @@ spec:
     email: projecta@example.com
     picture: https://example.com/groups/bu-infrastructure.jpeg
   parent: Platform Engineering
+  children: []
   members: [jdoe]
